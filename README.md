@@ -2,5 +2,6 @@
 
 ```
 ctrl+shift+f    # Auto reformat all code
+alt+down-arrow/up-arrow   # Move current line/selection up/down
 
 ```
